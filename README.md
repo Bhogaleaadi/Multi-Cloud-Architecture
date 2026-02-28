@@ -1,5 +1,3 @@
-# Task 3 : Multi-Cloud Architecture using AWS and Vercel
-
 📌 Objective To design and implement a multi-cloud architecture where application services are distributed across two cloud platforms and demonstrate interoperability between them.
 
 ☁️ Cloud Platforms Used
@@ -46,11 +44,11 @@ Deployment Details
 
 7️⃣ Backend API Output The Vercel API endpoint was tested directly and returned the expected JSON response.
 
-Backend Output
+
 
 8️⃣ Final Multi-Cloud Integration Output The AWS EC2 public IP was accessed via a browser. Upon clicking the button on the webpage, a request was sent to the Vercel backend, and the JSON response was displayed successfully.
 
-Final Output
+
 
 🔄 Workflow Summary
 
